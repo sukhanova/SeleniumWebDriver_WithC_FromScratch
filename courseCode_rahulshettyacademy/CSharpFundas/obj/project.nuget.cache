@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PWlTrwIm6RRt4knkNlRQDgOksm8XVbubdgRWtKHPn/hgec0wocSoowLwUs9jVKWvobaB/QLIT4m0jgw/9JczCw==",
+  "success": true,
+  "projectFilePath": "/Users/rahulshetty/rahulshettyacademy/CSharpFundas/CSharpFundas.csproj",
+  "expectedPackageFiles": [
+    "/Users/rahulshetty/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/rahulshetty/.nuget/packages/selenium.webdriver/4.0.0-beta4/selenium.webdriver.4.0.0-beta4.nupkg.sha512"
+  ],
+  "logs": []
+}

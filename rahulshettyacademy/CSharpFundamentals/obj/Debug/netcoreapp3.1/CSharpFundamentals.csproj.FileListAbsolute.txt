@@ -1,0 +1,16 @@
+/Users/virasukhanova/Desktop/Repos/Udemy/SeleniumWebDriver_WithC_FromScratch/rahulshettyacademy/CSharpFundamentals/obj/Debug/netcoreapp3.1/CSharpFundamentals.GeneratedMSBuildEditorConfig.editorconfig
+/Users/virasukhanova/Desktop/Repos/Udemy/SeleniumWebDriver_WithC_FromScratch/rahulshettyacademy/CSharpFundamentals/obj/Debug/netcoreapp3.1/CSharpFundamentals.AssemblyInfoInputs.cache
+/Users/virasukhanova/Desktop/Repos/Udemy/SeleniumWebDriver_WithC_FromScratch/rahulshettyacademy/CSharpFundamentals/obj/Debug/netcoreapp3.1/CSharpFundamentals.AssemblyInfo.cs
+/Users/virasukhanova/Desktop/Repos/Udemy/SeleniumWebDriver_WithC_FromScratch/rahulshettyacademy/CSharpFundamentals/obj/Debug/netcoreapp3.1/CSharpFundamentals.csproj.CoreCompileInputs.cache
+/Users/virasukhanova/Desktop/Repos/Udemy/SeleniumWebDriver_WithC_FromScratch/rahulshettyacademy/CSharpFundamentals/bin/Debug/netcoreapp3.1/CSharpFundamentals.deps.json
+/Users/virasukhanova/Desktop/Repos/Udemy/SeleniumWebDriver_WithC_FromScratch/rahulshettyacademy/CSharpFundamentals/bin/Debug/netcoreapp3.1/CSharpFundamentals.runtimeconfig.json
+/Users/virasukhanova/Desktop/Repos/Udemy/SeleniumWebDriver_WithC_FromScratch/rahulshettyacademy/CSharpFundamentals/bin/Debug/netcoreapp3.1/CSharpFundamentals.runtimeconfig.dev.json
+/Users/virasukhanova/Desktop/Repos/Udemy/SeleniumWebDriver_WithC_FromScratch/rahulshettyacademy/CSharpFundamentals/bin/Debug/netcoreapp3.1/CSharpFundamentals.dll
+/Users/virasukhanova/Desktop/Repos/Udemy/SeleniumWebDriver_WithC_FromScratch/rahulshettyacademy/CSharpFundamentals/bin/Debug/netcoreapp3.1/CSharpFundamentals.pdb
+/Users/virasukhanova/Desktop/Repos/Udemy/SeleniumWebDriver_WithC_FromScratch/rahulshettyacademy/CSharpFundamentals/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/virasukhanova/Desktop/Repos/Udemy/SeleniumWebDriver_WithC_FromScratch/rahulshettyacademy/CSharpFundamentals/bin/Debug/netcoreapp3.1/WebDriver.dll
+/Users/virasukhanova/Desktop/Repos/Udemy/SeleniumWebDriver_WithC_FromScratch/rahulshettyacademy/CSharpFundamentals/obj/Debug/netcoreapp3.1/CSharpFundamentals.csproj.AssemblyReference.cache
+/Users/virasukhanova/Desktop/Repos/Udemy/SeleniumWebDriver_WithC_FromScratch/rahulshettyacademy/CSharpFundamentals/obj/Debug/netcoreapp3.1/CSharpFundamentals.csproj.CopyComplete
+/Users/virasukhanova/Desktop/Repos/Udemy/SeleniumWebDriver_WithC_FromScratch/rahulshettyacademy/CSharpFundamentals/obj/Debug/netcoreapp3.1/CSharpFundamentals.dll
+/Users/virasukhanova/Desktop/Repos/Udemy/SeleniumWebDriver_WithC_FromScratch/rahulshettyacademy/CSharpFundamentals/obj/Debug/netcoreapp3.1/CSharpFundamentals.pdb
+/Users/virasukhanova/Desktop/Repos/Udemy/SeleniumWebDriver_WithC_FromScratch/rahulshettyacademy/CSharpFundamentals/obj/Debug/netcoreapp3.1/CSharpFundamentals.genruntimeconfig.cache

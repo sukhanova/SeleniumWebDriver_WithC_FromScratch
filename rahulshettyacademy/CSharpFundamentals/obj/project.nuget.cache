@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "YqJgk90vDoSlnaVGV2AjlrKZ6iZ4P9YvioBKChw/Yn4OItCIBKfXBPrZ2SZ+x0h02OST3cPFkfy0pE3HPffS1Q==",
+  "success": true,
+  "projectFilePath": "/Users/virasukhanova/Desktop/Repos/Udemy/SeleniumWebDriver_WithC_FromScratch/rahulshettyacademy/CSharpFundamentals/CSharpFundamentals.csproj",
+  "expectedPackageFiles": [
+    "/Users/virasukhanova/.nuget/packages/newtonsoft.json/12.0.3/newtonsoft.json.12.0.3.nupkg.sha512",
+    "/Users/virasukhanova/.nuget/packages/selenium.webdriver/4.3.0/selenium.webdriver.4.3.0.nupkg.sha512",
+    "/Users/virasukhanova/.nuget/packages/selenium.webdriver.chromedriver/103.0.5060.13400/selenium.webdriver.chromedriver.103.0.5060.13400.nupkg.sha512"
+  ],
+  "logs": []
+}
